@@ -3,9 +3,9 @@
 
 Dit is een test voor GIThub
 
-*1. test
-*2. nog een test
-*3. 3de test
+1. test
+2. nog een test
+3. 3de test
 
 * test
 * nog een test
@@ -17,6 +17,7 @@ normale tekst
 ### Hoofding 3
 
 if(today -- monday)
+
 {
 
 }
